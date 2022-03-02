@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\karam\desktop\compte bancaire\main.cpp
+	<iostream>
+
+1645882910 source:c:\users\karam\desktop\compte bancaire\src\personne.cpp
+	"personne.h"
+
+1645882910 c:\users\karam\desktop\compte bancaire\include\personne.h
+
+1514140574 source:c:\users\karam\desktop\schooll\poo\compte bancaire\main.cpp
+	<iostream>
+
+1645882910 source:c:\users\karam\desktop\schooll\poo\compte bancaire\src\personne.cpp
+	"personne.h"
+
+1645882910 c:\users\karam\desktop\schooll\poo\compte bancaire\include\personne.h
+
+1646157595 source:c:\users\karam\desktop\schooll\poo\compte bancaire\src\client.cpp
+	"compte.h"
+	"client.h"
+	"MAD.h"
+	<iostream>
+	<list>
+
+1646162631 c:\users\karam\desktop\schooll\poo\compte bancaire\include\compte.h
+	"compte.h"
+	"client.h"
+	"MAD.h"
+	<iostream>
+	<list>
+	"historique.h"
+
+1646155660 c:\users\karam\desktop\schooll\poo\compte bancaire\include\client.h
+	"compte.h"
+	"client.h"
+	"MAD.h"
+	<iostream>
+	<list>
+
+1646252367 c:\users\karam\desktop\schooll\poo\compte bancaire\include\mad.h
+	<list>
+	"compte.h"
+	"client.h"
+	"MAD.h"
+	<iostream>
+	"historique.h"
+
+1646246710 c:\users\karam\desktop\schooll\poo\compte bancaire\include\historique.h
+	"MAD.h"
+	<ctime>
+	<iostream>
+	"compte.h"
+	"client.h"
+	<list>
+	"historique.h"
+
+1645891939 source:c:\users\karam\desktop\schooll\poo\compte bancaire\src\comptepayant.cpp
+	"comptePayant.h"
+
+1645891939 c:\users\karam\desktop\schooll\poo\compte bancaire\include\comptepayant.h
+	<compte.h>
+
+1646161529 source:c:\users\karam\desktop\schooll\poo\compte bancaire\src\compte.cpp
+	"compte.h"
+	"client.h"
+	"MAD.h"
+	<iostream>
+	<list>
+	"historique.h"
+
